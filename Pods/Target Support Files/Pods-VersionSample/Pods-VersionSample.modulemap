@@ -1,0 +1,6 @@
+framework module Pods_VersionSample {
+  umbrella header "Pods-VersionSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
